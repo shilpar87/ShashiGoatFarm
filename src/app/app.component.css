@@ -1,0 +1,53 @@
+h1 {
+    text-shadow: lightcoral;
+    text-align: center;
+    padding: 60px 0px 100px 0px;
+    font: normal 300% arial, sans-serif;
+    color: whitesmoke;
+    letter-spacing: -1px;   
+    height: 380px;
+    
+}
+
+ul {
+  font-weight: bold;
+  font-size: 200%;
+  display: flex;
+  text-transform: uppercase;
+  list-style-type: none; 
+  cursor: -webkit-grab;
+  padding-left: 700px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  color: black;
+  
+  }
+  
+p {
+    padding: 0 0 20px 0;
+    line-height: 1.6em;
+    font-size: 200%;
+   
+}
+
+img {
+    margin-left: 590px;
+    margin-right: 590px;
+    height: 300px;
+}
+
+img.header {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.container {
+    position: relative;
+ }
+
+
+
+ .mat-card-header {
+    background-color: red;
+  }
+
